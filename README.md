@@ -1,4 +1,6 @@
-# projeto-5-explorer
+# Página web com grid e responsiva
+
+## projeto-5-explorer
 
 Foi desenvolvido uma página web responsiva utilizando display grid, dividido em 4 grids de tamanhos diferentes, 
 cada grid tem um hover aumentando as imagens.
